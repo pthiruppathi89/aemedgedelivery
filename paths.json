@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/poc-wbg-edgedelivery/:/",
+    "/content/poc-wbg-edgedelivery/configuration:/.helix/config.json"
   ]
 }
